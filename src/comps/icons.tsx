@@ -19,7 +19,9 @@ const Icons = () => {
       <Code
         onClick={() => window.open("https://github.com/gantelo", "_blank")}
       />
-      <Game onClick={() => console.log("yeet")} />
+      <Game onClick={() =>
+          window.open("https://gantelo.github.io/about-me/", "_blank")
+        } />
       <Profile
         onClick={() =>
           window.open("https://gantelo.github.io/resume/", "_blank")
