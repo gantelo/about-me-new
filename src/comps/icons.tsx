@@ -24,7 +24,7 @@ const Icons = () => {
         } />
       <Profile
         onClick={() =>
-          window.open("https://gantelo.github.io/resume/", "_blank")
+          window.open("https://docs.google.com/viewerng/viewer?url=https://github.com/gabriel1536/resume/raw/master/MyResume.pdf", "_blank")
         }
       />
     </div>
