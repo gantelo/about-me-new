@@ -8,14 +8,10 @@ function App() {
   return (
     <div className="container">
       <header className="App-header">
-        <img
-          src={profile}
-          className="profilePicture"
-          alt="logo"
-        />
+        <img src={profile} className="profilePicture" alt="logo" />
         <Text
           text={[
-            "Hi, i'm Gabriel Antelo,",
+            "Hi, I'm Gabriel Antelo.",
             "I’m an experienced react developer",
             "based in Buenos Aires.",
           ]}
