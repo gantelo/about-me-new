@@ -8,10 +8,23 @@ import "../App.css";
 const Icons = () => {
   return (
     <div className="iconsContainer">
-      <LinkedIn onClick={() => console.log("yeet")} />
-      <Code onClick={() => console.log("yeet")} />
+      <LinkedIn
+        onClick={() =>
+          window.open(
+            "https://www.linkedin.com/in/gabriel-antelo-526710143/",
+            "_blank"
+          )
+        }
+      />
+      <Code
+        onClick={() => window.open("https://github.com/gantelo", "_blank")}
+      />
       <Game onClick={() => console.log("yeet")} />
-      <Profile onClick={() => console.log("yeet")} />
+      <Profile
+        onClick={() =>
+          window.open("https://gantelo.github.io/resume/", "_blank")
+        }
+      />
     </div>
   );
 };

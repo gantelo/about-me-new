@@ -1,6 +1,7 @@
 import React from "react";
 import Text from "./comps/text";
 import Icons from "./comps/icons";
+import profile from "./assets/pic.jpg";
 import "./App.css";
 
 function App() {
@@ -8,9 +9,7 @@ function App() {
     <div className="container">
       <header className="App-header">
         <img
-          src={
-            "https://avatars0.githubusercontent.com/u/49167576?s=400&u=7c43210fc4ee97cbd409de471fabb37e8c8f203d&v=4"
-          }
+          src={profile}
           className="profilePicture"
           alt="logo"
         />
@@ -18,7 +17,7 @@ function App() {
           text={[
             "Hi, i'm Gabriel Antelo,",
             "I’m an experienced react developer",
-            "based in Buenos Aires",
+            "based in Buenos Aires.",
           ]}
         />
         <Text
