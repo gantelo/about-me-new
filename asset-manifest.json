@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/about-me-new/static/css/main.4958a0b9.chunk.css",
-    "main.js": "/about-me-new/static/js/main.e1e64cec.chunk.js",
-    "main.js.map": "/about-me-new/static/js/main.e1e64cec.chunk.js.map",
-    "runtime-main.js": "/about-me-new/static/js/runtime-main.826962a3.js",
-    "runtime-main.js.map": "/about-me-new/static/js/runtime-main.826962a3.js.map",
-    "static/js/2.ca585095.chunk.js": "/about-me-new/static/js/2.ca585095.chunk.js",
-    "static/js/2.ca585095.chunk.js.map": "/about-me-new/static/js/2.ca585095.chunk.js.map",
-    "static/js/3.79b38770.chunk.js": "/about-me-new/static/js/3.79b38770.chunk.js",
-    "static/js/3.79b38770.chunk.js.map": "/about-me-new/static/js/3.79b38770.chunk.js.map",
+    "main.css": "/about-me-new/static/css/main.7b87a0eb.chunk.css",
+    "main.js": "/about-me-new/static/js/main.a22bb84b.chunk.js",
+    "main.js.map": "/about-me-new/static/js/main.a22bb84b.chunk.js.map",
+    "runtime-main.js": "/about-me-new/static/js/runtime-main.6b6982e0.js",
+    "runtime-main.js.map": "/about-me-new/static/js/runtime-main.6b6982e0.js.map",
+    "static/js/2.ba1eefde.chunk.js": "/about-me-new/static/js/2.ba1eefde.chunk.js",
+    "static/js/2.ba1eefde.chunk.js.map": "/about-me-new/static/js/2.ba1eefde.chunk.js.map",
+    "static/js/3.43d9b171.chunk.js": "/about-me-new/static/js/3.43d9b171.chunk.js",
+    "static/js/3.43d9b171.chunk.js.map": "/about-me-new/static/js/3.43d9b171.chunk.js.map",
     "index.html": "/about-me-new/index.html",
-    "static/css/main.4958a0b9.chunk.css.map": "/about-me-new/static/css/main.4958a0b9.chunk.css.map",
-    "static/js/2.ca585095.chunk.js.LICENSE.txt": "/about-me-new/static/js/2.ca585095.chunk.js.LICENSE.txt",
+    "static/css/main.7b87a0eb.chunk.css.map": "/about-me-new/static/css/main.7b87a0eb.chunk.css.map",
+    "static/js/2.ba1eefde.chunk.js.LICENSE.txt": "/about-me-new/static/js/2.ba1eefde.chunk.js.LICENSE.txt",
     "static/media/code.24e5e275.svg": "/about-me-new/static/media/code.24e5e275.svg",
     "static/media/game.b558fd25.svg": "/about-me-new/static/media/game.b558fd25.svg",
     "static/media/line.59919a7e.svg": "/about-me-new/static/media/line.59919a7e.svg",
@@ -19,9 +19,9 @@
     "static/media/profile.8db44a65.svg": "/about-me-new/static/media/profile.8db44a65.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.826962a3.js",
-    "static/js/2.ca585095.chunk.js",
-    "static/css/main.4958a0b9.chunk.css",
-    "static/js/main.e1e64cec.chunk.js"
+    "static/js/runtime-main.6b6982e0.js",
+    "static/js/2.ba1eefde.chunk.js",
+    "static/css/main.7b87a0eb.chunk.css",
+    "static/js/main.a22bb84b.chunk.js"
   ]
 }
