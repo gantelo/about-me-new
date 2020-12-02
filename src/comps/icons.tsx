@@ -35,7 +35,7 @@ const Icons = () => {
         Element={Profile}
         onClick={() =>
           window.open(
-            "https://docs.google.com/viewerng/viewer?url=https://github.com/gabriel1536/resume/raw/master/MyResume.pdf",
+            "https://drive.google.com/file/d/1m_V5blcSHP4fdC_MU2wV9ypqocP2WwzN/view?usp=sharing",
             "_blank"
           )
         }
