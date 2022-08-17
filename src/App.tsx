@@ -12,13 +12,13 @@ function App() {
         <Text
           text={[
             "Hi, I'm Gabriel Antelo.",
-            "I’m an experienced react developer",
+            "I’m an experienced developer",
             "based in Buenos Aires.",
           ]}
         />
         <Text
           text={[
-            "I love experimenting with code and I have",
+            "I love coding and I have",
             "a strong passion for creating",
             "high-end applications,",
             "both web and mobile.",
@@ -26,8 +26,8 @@ function App() {
         />
         <Text
           text={[
-            "I’m always looking for an interesting",
-            "project, so feel free to contact me!",
+            "I love challenging projects,",
+            "so feel free to contact me!",
           ]}
         />
         <div className="text">

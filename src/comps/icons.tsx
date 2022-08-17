@@ -35,7 +35,7 @@ const Icons = () => {
         Element={Profile}
         onClick={() =>
           window.open(
-            "https://drive.google.com/file/d/1cFZ4EumoNyvsdH0YMh0pKfNWyPOEBXn2/view?usp=sharing",
+            "https://docdro.id/zbeQCU3",
             "_blank"
           )
         }
