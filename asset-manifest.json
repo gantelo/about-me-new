@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/about-me-new/static/css/main.d8d2fb63.chunk.css",
-    "main.js": "/about-me-new/static/js/main.43418036.chunk.js",
-    "main.js.map": "/about-me-new/static/js/main.43418036.chunk.js.map",
+    "main.js": "/about-me-new/static/js/main.bd8db9af.chunk.js",
+    "main.js.map": "/about-me-new/static/js/main.bd8db9af.chunk.js.map",
     "runtime-main.js": "/about-me-new/static/js/runtime-main.6b6982e0.js",
     "runtime-main.js.map": "/about-me-new/static/js/runtime-main.6b6982e0.js.map",
     "static/js/2.ba1eefde.chunk.js": "/about-me-new/static/js/2.ba1eefde.chunk.js",
@@ -13,7 +13,6 @@
     "static/css/main.d8d2fb63.chunk.css.map": "/about-me-new/static/css/main.d8d2fb63.chunk.css.map",
     "static/js/2.ba1eefde.chunk.js.LICENSE.txt": "/about-me-new/static/js/2.ba1eefde.chunk.js.LICENSE.txt",
     "static/media/code.24e5e275.svg": "/about-me-new/static/media/code.24e5e275.svg",
-    "static/media/game.b558fd25.svg": "/about-me-new/static/media/game.b558fd25.svg",
     "static/media/line.59919a7e.svg": "/about-me-new/static/media/line.59919a7e.svg",
     "static/media/linkedin.91f21132.svg": "/about-me-new/static/media/linkedin.91f21132.svg",
     "static/media/profile.8db44a65.svg": "/about-me-new/static/media/profile.8db44a65.svg"
@@ -22,6 +21,6 @@
     "static/js/runtime-main.6b6982e0.js",
     "static/js/2.ba1eefde.chunk.js",
     "static/css/main.d8d2fb63.chunk.css",
-    "static/js/main.43418036.chunk.js"
+    "static/js/main.bd8db9af.chunk.js"
   ]
 }
